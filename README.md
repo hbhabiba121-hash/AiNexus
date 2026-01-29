@@ -34,6 +34,7 @@ It can understand context, answer questions, summarize text, generate structured
 - Get detailed analysis  
 - Receive suggestions for improvement  
 ![image alt](https://github.com/hbhabiba121-hash/AiNexus/blob/7da779f2ffb30bda297f3bba617828dc2b472b7f/Screenshot%202026-01-29%20181020.png)
+![image alt](https://github.com/hbhabiba121-hash/AiNexus/blob/beaeb934396898517b29bb943e4e339ddd6fe4ad/Screenshot%202026-01-29%20181027.png)
 ---
 
 ## Tech Stack
