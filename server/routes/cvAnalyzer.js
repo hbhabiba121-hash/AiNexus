@@ -10,7 +10,7 @@ const axios = require("axios");
 const router = express.Router();
 
 /* -------------------- CONFIG -------------------- */
-const GROQ_API_KEY = process.env.GROQ_API_KEY || "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";
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
 const AI_MODELS = [
   "llama-3.1-8b-instant",
