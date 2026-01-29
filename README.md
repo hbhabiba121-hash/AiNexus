@@ -6,7 +6,7 @@
 It can understand context, answer questions, summarize text, generate structured content, optimize SEO, convert and analyze code, and even analyze/evaluate CVs.  
 
 > ⚠️ **Note:** This project uses **Grok AI API** for AI-powered features. Make sure you have a valid Grok AI API key.
-
+![image alt](https://github.com/hbhabiba121-hash/AiNexus/blob/19982980e12d3b105100deddc7a1c99bb2bb896a/Screenshot%202026-01-29%20181004.png)
 ---
 
 ## Features
